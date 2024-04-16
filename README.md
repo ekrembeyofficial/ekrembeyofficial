@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1226151873497534474/1226151969056493618/tilki.png?ex=662cf482&is=661a7f82&hm=aeb6a4e091a5b02205cb1cbe1bd08bcca8937acd32784dbe5c30b61a0d4bb54d&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -45,6 +39,10 @@
 
 ###
 
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1226151873497534474/1226151969056493618/tilki.png?ex=662cf482&is=661a7f82&hm=aeb6a4e091a5b02205cb1cbe1bd08bcca8937acd32784dbe5c30b61a0d4bb54d&"  />
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@ekrembey.official/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -64,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ekrembeyofficial/.github/workflows/main.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ekrembeyofficial/ekrembeyofficial/output/snake.svg" alt="Snake animation" />
 
 ###
