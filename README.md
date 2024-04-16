@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1226151873497534474/1226151969056493618/tilki.png?ex=662cf482&is=661a7f82&hm=aeb6a4e091a5b02205cb1cbe1bd08bcca8937acd32784dbe5c30b61a0d4bb54d&"  />
+<img align="right" height="150" src="https://bit.ly/443x8g7"  />
 
 ###
 
